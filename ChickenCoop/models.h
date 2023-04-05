@@ -1,0 +1,24 @@
+#pragma once
+void cube(GLfloat x, GLfloat y, GLfloat z, GLfloat w, GLfloat l, GLfloat h, GLfloat color[]);
+void drawGrass();
+void drawFloor();
+void drawWalls(GLfloat door);
+void secondFloor();
+void drawBarrel();
+void ladder();
+void feedingPen();
+void hay();
+void water();
+void egg();
+void pitchfork();
+void crate();
+void fence();
+void stones();
+void ground();
+void label();
+void scarecrow();
+void blocks();
+void dirtPath();
+void roof();
+void window();
+void fence2();
